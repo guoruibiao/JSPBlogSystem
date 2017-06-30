@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project>
+	<database name="mysql">
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://localhost:3306/blogsystem</url>
+		<user>root</user>
+		<password>mysql</password>
+		<poolsize>20</poolsize>
+	</database>
+</project>
